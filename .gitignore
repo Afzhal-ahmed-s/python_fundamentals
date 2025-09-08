@@ -27,3 +27,6 @@ htmlcov/
 
 # logs
 *.log
+
+# My personal notes
+personal_note.md
