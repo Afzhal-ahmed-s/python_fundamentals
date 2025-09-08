@@ -4,5 +4,5 @@ Quick python reference focused on efficient ROI for time-constrained learners. Y
 ## Tech stack
 - Python 3.11
 - Poetry
-- VS Code
+- Pycharm
 - GitHub
